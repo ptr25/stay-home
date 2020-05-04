@@ -108,7 +108,7 @@ maze20.shapeColor = "blue";
 var maze21 = createSprite(180,350,10,100);
 maze21.shapeColor = "blue";
 textSize(20);
-fill("red");
+fill("pink");
 textFont("phosphate");
 text ("STAY HOME",400,300);
 text ("STAY SAFE",400,320);
